@@ -3,5 +3,5 @@
 tarihi-yerler
 
 - tarihi eser
-- kuşkonmaz cami
 - Sultan Ahmet Camii
+- kuşkonmaz cami
